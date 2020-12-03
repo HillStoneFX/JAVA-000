@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f875bbe-d1cd-4204-a1aa-5b785c08b71d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Week_01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_01/ClassLoderTest/ClassLoderTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_01/Week_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_02/demo/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_02/demo/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_02/demo/target/classes/org/example/OkHttpTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Week_02/demo/target/test-classes/org/example/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/jeektime/data/SpringMockDataApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/jeektime/data/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/jeektime/data/jdbc/BatchPrepareStatementJdbcRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/jeektime/data/jdbc/CommonNativeJdbcRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/jeektime/data/jdbc/PreparedStatementJdbcRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/jeektime/data/service/ProductInfoDataMockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/jeektime/data/service/TradeDataMockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/jeektime/data/service/UseInfoDataMockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/jeektime/data/utils/NewInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/jeektime/data/utils/RandString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/jeektime/data/utils/TimeAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\developer_soft\Maven\repository" />
+        <option name="mavenHome" value="D:\common_soft\IntelliJ-IDEA2020\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\developer_soft\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l9XSrVi5GkJLV5T1i0RYi8VtVl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f875bbe-d1cd-4204-a1aa-5b785c08b71d" name="Default Changelist" comment="" />
+      <created>1607010286401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607010286401</updated>
+      <workItem from="1607010287454" duration="477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1607010375465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607010375465" />
+  </component>
+</project>
